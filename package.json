@@ -1,0 +1,22 @@
+{
+  "name": "testqarebelsworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kholilakhmad/testQARebelsWorks.git"
+  },
+  "author": "Kholil Akhmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kholilakhmad/testQARebelsWorks/issues"
+  },
+  "homepage": "https://github.com/kholilakhmad/testQARebelsWorks#readme",
+  "dependencies": {
+    "cypress": "^10.2.0"
+  }
+}
